@@ -2,19 +2,20 @@
 
 # 👋 Hi, I'm Sana Fatima
 
-### 💻 Computer Science Engineer | 📊 Data Analytics | 🤖 Machine Learning
+### 💻 Computer Science Engineering Graduate  
+### 📊 Data Analytics | 🤖 Machine Learning | 🧠 Artificial Intelligence
 
-<p>
-  <a href="https://github.com/sanafatima-26">
-    <img src="https://img.shields.io/badge/GitHub-sanafatima--26-black?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://linkedin.com/in/sana-fatima">
-    <img src="https://img.shields.io/badge/LinkedIn-Sana%20Fatima-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="mailto:sanafatima2656@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sanafatima2656%40gmail.com-red?style=for-the-badge&logo=gmail">
-  </a>
-</p>
+<img src="./Sana-banner.png" width="650" alt="Sana Fatima - Data Analytics"/>
+
+<br><br>
+
+<a href="https://github.com/sanafatima-26">
+<img src="https://img.shields.io/badge/GitHub-sanafatima--26-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:sanafatima2656@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
@@ -22,116 +23,108 @@
 
 ## 👩‍💻 About Me
 
-I'm **Sana Fatima**, a Computer Science Engineering graduate from
-**Deccan College of Engineering and Technology, Hyderabad**.
+I'm **Sana Fatima**, a Computer Science Engineering graduate from **Deccan College of Engineering and Technology, Hyderabad**.
 
-I am interested in **Data Analytics, Machine Learning, Artificial Intelligence and
-Data-Driven Problem Solving**.
+I am passionate about **Data Analytics, Machine Learning, Artificial Intelligence, and Data-Driven Problem Solving**.
 
-I enjoy transforming raw data into meaningful insights and building practical
-technology projects using Python and data analytics tools.
+I enjoy working with data, finding meaningful patterns, creating visualizations, and building practical technology projects using **Python, SQL, and Machine Learning**.
 
 ---
 
 ## 🛠️ Technical Skills
 
-### 💻 Programming & Databases
+### 💻 Programming & Database
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 📊 Data Analytics
 
-<p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge">
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge">
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-</p>
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-### 🤖 AI / Machine Learning
+### 🤖 AI & Machine Learning
 
-<p>
-<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-<img src="https://img.shields.io/badge/NLP-412991?style=for-the-badge">
-<img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge">
-<img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge">
-</p>
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge)
 
 ### 🌐 Tools & Technologies
 
-<p>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/APIs-005571?style=for-the-badge">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-</p>
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![APIs](https://img.shields.io/badge/APIs-005571?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ## 📚 Training
 
-### Data Analytics & Machine Learning
+### 📊 Data Analytics & Machine Learning
+
 **Lords Skill Academy**  
-September 2025 – April 2026
+**September 2025 – April 2026**
 
 - Python, NumPy, Pandas, Matplotlib and Seaborn
-- Data cleaning and preprocessing
+- Data Cleaning and Preprocessing
 - Exploratory Data Analysis (EDA)
-- Data visualization
+- Data Visualization
 - Machine Learning
-- Linear Regression
-- Logistic Regression
-- Random Forest
-- Model evaluation using Accuracy, Precision, Recall, RMSE and R²
+- Feature Selection
+- Model Evaluation
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎬 Netflix Data Analysis
+### 📊 Data Analytics
 
-- Analyzed Netflix content trends, genres and release years.
-- Performed data cleaning and exploratory data analysis.
-- Used Python, Pandas, NumPy, Matplotlib and Seaborn.
-- Analyzed country-wise content distribution.
+| Project | Technologies |
+|---|---|
+| 📈 Data Analysis & Visualization | Python, Pandas, Matplotlib |
+| 📊 Interactive Dashboard | Power BI |
+| 🔍 Exploratory Data Analysis | Python, Pandas, NumPy |
 
-### 🍴 Zomato Data Analysis
+### 🤖 Machine Learning
 
-- Analyzed restaurant ratings, pricing and locations.
-- Performed data cleaning and preprocessing.
-- Identified customer preference trends.
-- Created visualizations to understand factors affecting restaurant ratings.
-
-### 📈 Life Expectancy Prediction
-
-- Developed a regression-based machine learning model.
-- Used health and socio-economic data.
-- Performed data preprocessing and feature selection.
-- Evaluated the model using RMSE and R² score.
+| Project | Technologies |
+|---|---|
+| 🏠 Prediction Model | Python, Machine Learning |
+| 🩺 Health & Socio-Economic Analysis | Python, Pandas, ML |
+| 📉 Regression Analysis | Python, Scikit-learn |
 
 ---
 
-## 🐍 Watch the snake eat my contributions
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sanafatima-26/sanafatima-26/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
+<img src="https://github-readme-stats.vercel.app/api?username=sanafatima-26&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanafatima-26&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sanafatima-26&show_icons=true&theme=radical&hide_border=true" height="180">
+<img src="https://streak-stats.demolab.com?user=sanafatima-26&theme=tokyonight&hide_border=true" width="70%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanafatima-26&layout=compact&theme=radical&hide_border=true" height="180">
+</div>
+
+---
+
+## 🐍 Watch the Snake Eat My Contributions
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sanafatima-26/sanafatima-26/output/github-contribution-grid-snake.svg" width="90%" alt="GitHub Contribution Snake"/>
 
 </div>
 
@@ -141,7 +134,7 @@ September 2025 – April 2026
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sanafatima-26&theme=radical&no-frame=true&no-bg=true&margin-w=10">
+<img src="https://github-profile-trophy.vercel.app/?username=sanafatima-26&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="90%" alt="GitHub Trophies"/>
 
 </div>
 
@@ -168,7 +161,7 @@ September 2025 – April 2026
 
 💻 **GitHub:** [sanafatima-26](https://github.com/sanafatima-26)
 
-🔗 **LinkedIn:** [Sana Fatima](https://linkedin.com/in/sana-fatima)
+🔗 **LinkedIn:** Sana Fatima
 
 📍 **Hyderabad, Telangana**
 
@@ -178,6 +171,8 @@ September 2025 – April 2026
 
 <div align="center">
 
-### ✨ Always learning, always building. 💜
+### ✨ Always Learning • Always Building 💙
+
+<img src="https://komarev.com/ghpvc/?username=sanafatima-26&label=Profile%20Views&style=for-the-badge"/>
 
 </div>
