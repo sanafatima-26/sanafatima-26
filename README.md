@@ -1,169 +1,160 @@
 <div align="center">
 
-# 👋 Hi, I'm Sana Fatima
+<!-- ✨ Animated Banner ✨ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./banner.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=1">
+  <img src="./banner.svg?v=1" alt="Sana Fatima — Python & Data Analyst" width="100%"/>
+</picture>
 
-### 💻 Computer Science Engineering Graduate  
-### 📊 Data Analytics | 🤖 Machine Learning | 🧠 Artificial Intelligence
+</div>
 
-<img src=".Sana-banner.png" width="650" alt="Sana Fatima - Data Analytics"/>
+<br/>
 
-<br><br>
+<table align="center" border="0">
+<tr>
+
+<td width="38%" align="center" valign="middle">
+
+<!-- 🪪 Swinging Lanyard ID Card -->
+<img src="./lanyard.svg?v=1" alt="Sana Fatima ID badge" width="330"/>
+
+</td>
+
+<td width="62%" valign="middle">
+
+### 🌸 About Me
+
+Hi, I'm **Sana Fatima** 👋
+
+🎓 B.E. Computer Science & Engineering — 2026  
+🐍 Python Developer  
+📊 Data Analyst  
+🤖 Machine Learning & GenAI Enthusiast  
+📍 Hyderabad, India  
+
+I enjoy turning data into insights, building practical projects,
+and exploring how AI can solve real-world problems.
+
+> 💗 *"Code. Learn. Build. Repeat."*
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### 🚀 Featured Projects
+
+| 💻 Project | 🛠️ Tech Stack | ⭐ |
+|:---|:---:|:---:|
+| 📊 **Life Expectancy Prediction** | `Python` `Pandas` `ML` | 🔥 |
+| 🍽️ **Zomato Data Analysis** | `Python` `Pandas` `Data Analysis` | ⭐ |
+| 🎬 **Netflix Data Analysis** | `Python` `Pandas` `Visualization` | ⭐ |
+| 🎓 **Student Result Prediction** | `Python` `ML` `Flask` | ⭐ |
+| 🧠 **Data Science with GenAI** | `Python` `GenAI` `LLMs` | ⭐ |
+
+<br/>
+
+> 💗 *"Building ideas today that can become solutions tomorrow."*
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🧰 Tech Stack
+
+<img src="https://img.shields.io/badge/Python-ff4fb3?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/SQL-8b5cf6?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/Pandas-e879f9?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-ff7eb6?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-8b5cf6?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning"/>
+<img src="https://img.shields.io/badge/GenAI-e879f9?style=for-the-badge&logo=openai&logoColor=white" alt="GenAI"/>
+<img src="https://img.shields.io/badge/Power%20BI-ff7eb6?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Flask-8b5cf6?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+<img src="https://img.shields.io/badge/HTML5-ff7eb6?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-e879f9?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/Git-ff4fb3?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+
+<br/><br/>
+
+### 📊 GitHub Stats & Graphs
+
+<img src="./stats.svg?v=1" alt="Sana Fatima GitHub Stats" height="185"/>
+<img src="./langs.svg?v=1" alt="Sana Fatima Top Languages" height="185"/>
+
+<br/><br/>
+
+<!-- 🔥 GitHub Streak -->
+<img
+  src="https://streak-stats.demolab.com?user=sanafatima-26&theme=radical&hide_border=true&background=170e28&ring=ff7eb6&fire=e879f9&currStreakLabel=c084fc"
+  alt="Sana Fatima GitHub Streak"
+/>
+
+<br/><br/>
+
+<!-- 📈 Contribution Activity Graph -->
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=sanafatima-26&bg_color=170e28&color=ff7eb6&line=8b5cf6&point=e879f9&area=true&area_color=8b5cf6&hide_border=true&custom_title=Sana%20Fatima%20Contribution%20Graph%20💗"
+  alt="Sana Fatima Contribution Graph"
+  width="95%"
+/>
+
+<br/><br/>
+
+<!-- 🏆 Local Animated Trophies -->
+<img
+  src="./trophies.svg?v=1"
+  alt="Sana Fatima GitHub Trophies"
+  width="95%"
+/>
+
+<br/><br/>
+
+### 🐍 Watch the snake eat my contributions
+
+<img
+  src="https://raw.githubusercontent.com/sanafatima-26/sanafatima-26/output/github-contribution-grid-snake.svg?v=1"
+  alt="Sana Fatima contribution snake"
+/>
+
+<br/><br/>
+
+### 📫 Let's Connect
+
+<a href="mailto:Sanafatima2656@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Email-ff7eb6?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
+</a>
 
 <a href="https://github.com/sanafatima-26">
-<img src="https://img.shields.io/badge/GitHub-sanafatima--26-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img
+    src="https://img.shields.io/badge/GitHub-8b5cf6?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
 </a>
 
-<a href="mailto:sanafatima2656@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<br/><br/>
 
-</div>
+<img
+  src="https://komarev.com/ghpvc/?username=sanafatima-26&color=ff7eb6&style=for-the-badge&label=PROFILE+VIEWS"
+  alt="Sana Fatima Profile Views"
+/>
 
----
+<br/><br/>
 
-## 👩‍💻 About Me
+*⭐️ Always learning, always building.* 💗
 
-I'm **Sana Fatima**, a Computer Science Engineering graduate from **Deccan College of Engineering and Technology, Hyderabad**.
+<br/>
 
-I am passionate about **Data Analytics, Machine Learning, Artificial Intelligence, and Data-Driven Problem Solving**.
-
-I enjoy working with data, finding meaningful patterns, creating visualizations, and building practical technology projects using **Python, SQL, and Machine Learning**.
-
----
-
-## 🛠️ Technical Skills
-
-### 💻 Programming & Database
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 📊 Data Analytics
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-### 🤖 AI & Machine Learning
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge)
-
-### 🌐 Tools & Technologies
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![APIs](https://img.shields.io/badge/APIs-005571?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 📚 Training
-
-### 📊 Data Analytics & Machine Learning
-
-**Lords Skill Academy**  
-**September 2025 – April 2026**
-
-- Python, NumPy, Pandas, Matplotlib and Seaborn
-- Data Cleaning and Preprocessing
-- Exploratory Data Analysis (EDA)
-- Data Visualization
-- Machine Learning
-- Feature Selection
-- Model Evaluation
-
----
-
-## 🚀 Featured Projects
-
-### 📊 Data Analytics
-
-| Project | Technologies |
-|---|---|
-| 📈 Data Analysis & Visualization | Python, Pandas, Matplotlib |
-| 📊 Interactive Dashboard | Power BI |
-| 🔍 Exploratory Data Analysis | Python, Pandas, NumPy |
-
-### 🤖 Machine Learning
-
-| Project | Technologies |
-|---|---|
-| 🏠 Prediction Model | Python, Machine Learning |
-| 🩺 Health & Socio-Economic Analysis | Python, Pandas, ML |
-| 📉 Regression Analysis | Python, Scikit-learn |
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sanafatima-26&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanafatima-26&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=sanafatima-26&theme=tokyonight&hide_border=true" width="70%"/>
-
-</div>
-
----
-
-## 🐍 Watch the Snake Eat My Contributions
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/sanafatima-26/sanafatima-26/output/github-contribution-grid-snake.svg" width="90%" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sanafatima-26&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="90%" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-## 🎯 What I'm Interested In
-
-- 📊 Data Analytics
-- 🤖 Machine Learning
-- 🧠 Artificial Intelligence
-- 📈 Data Visualization
-- 🐍 Python
-- 🗄️ SQL
-- 💡 Data-Driven Problem Solving
-- 🚀 Building Practical Projects
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-📧 **Email:** sanafatima2656@gmail.com
-
-💻 **GitHub:** [sanafatima-26](https://github.com/sanafatima-26)
-
-🔗 **LinkedIn:** Sana Fatima
-
-📍 **Hyderabad, Telangana**
+**KEEP CODING • KEEP GROWING 🚀**
 
 </div>
 
