@@ -44,12 +44,24 @@
 
 ### 📊 GitHub Stats & Graphs
 
-<img src="./megha-stats.svg?v=2" alt="GitHub Stats" height="185"/>
-<img src="./megha-langs.svg?v=2" alt="Top Languages" height="185"/>
+<img src="./sana-stats.svg?v=2" alt="GitHub Stats" height="185"/>
+<img src="./sana-langs.svg?v=2" alt="Top Languages" height="185"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Meghamittal0920&theme=radical&hide_border=true&background=170e28&ring=ff7eb6&fire=e879f9&currStreakLabel=c084fc" alt="GitHub Streak"/>
+<image
+
+  href="https://raw.githubusercontent.com/sanafatima-26/sanafatima-26/main/sana-fatima-photo.svg"
+
+  x="700"
+
+  y="100"
+
+  width="450"
+
+  height="550"
+
+  preserveAspectRatio="xMidYMid slice"/>
 
 <br/><br/>
 
