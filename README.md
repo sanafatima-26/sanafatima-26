@@ -4,7 +4,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./sana-banner.svg?v=7">
   <source media="(prefers-color-scheme: light)" srcset="./sana-banner-light.svg?v=1">
-  <img href="./sana2-photo.png?v=7" alt="sana fatima — Frontend Developer" width="100%"/>
+  <img src="./sana-banner-svg?v=7" alt="sana fatima — Frontend Developer" width="100%"/>
 </picture>
 
 </div>
@@ -16,8 +16,7 @@
 <td width="38%" align="center" valign="middle">
 
 <!-- 🪪 Swinging Lanyard ID Card (React Bits style, pure SVG) -->
-<img href="./sana2-photo.png?v=2" alt="sana fatima ID badge" width="330"/>
-
+<img src="./sana-lanyard.svg?v=2" alt="sana fatima ID badge" width="330"/>
 </td>
 <td width="62%" valign="middle">
 
