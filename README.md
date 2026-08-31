@@ -5,7 +5,7 @@
 ### 💻 Computer Science Engineering Graduate  
 ### 📊 Data Analytics | 🤖 Machine Learning | 🧠 Artificial Intelligence
 
-<img src="./Sana-banner.png" width="650" alt="Sana Fatima - Data Analytics"/>
+<img src="./Sana2.png" width="650" alt="Sana Fatima - Data Analytics"/>
 
 <br><br>
 
